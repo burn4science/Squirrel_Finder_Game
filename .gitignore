@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.cache/
+*.dotnet/
+
+# Environments
+.env
+.venv
+*env/
+*venv*/
+ENV/
+env.bak/
+venv.bak/
+
+# project specific
+# .vscode*/
+.ssh/
+.gnupg/
+.git/
+# .dvc/*
+.ipython/*
+.local/*
+.keras/*
+data/interim/*
+data/raw/*
+data/results/*
+logs/*
+models/*
+src/trash/
+src/tests/*
+_Archiv/
+Backup/
+.streamlit/cache/*
+mlruns/*
+.config/*
+
+# single files
+.bash_history
+.bash_logout
+.gitconfig
+.python_history
+*delete*
